@@ -1,6 +1,6 @@
   <br />
     <p>
-    <a href="https://github.com/aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa77/Jazzy"><img src="https://cdn.discordapp.com/attachments/886011426915876895/891675504510390272/jazzy-logo.png" alt="Jazzy" /></a>
+    <a href="https://github.com/aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa77/Jazzy"><img src="https://cdn.discordapp.com/attachments/836881193009938512/891912141894975488/jazzy-logo-small.png" alt="Jazzy" /></a>
   </p>
 
 # Jazzy
